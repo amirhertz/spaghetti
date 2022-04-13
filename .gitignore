@@ -1,0 +1,8 @@
+/assets/*
+!/assets/readme_resources/
+!/assets/ui_resources/
+!/assets/splits/
+*.vtk
+.idea/
+__pycache__/
+**_ig_**
