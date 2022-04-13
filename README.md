@@ -1,6 +1,6 @@
-### SPAGHETTI: Editing Implicit Shapes through Part Aware Generation
+### [SPAGHETTI: Editing Implicit Shapes through Part Aware Generation]("https://amirhertz.github.io/spaghetti")
 
-[![](./assets/readme_resources/teaser-01.png)]("https://amirhertz.github.io/spaghetti")
+![](./assets/readme_resources/teaser-01.png)
 
 
 ### Installation

@@ -2,6 +2,7 @@
 !/assets/readme_resources/
 !/assets/ui_resources/
 !/assets/splits/
+!/assets/mesh/
 *.vtk
 .idea/
 __pycache__/
