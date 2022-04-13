@@ -1,4 +1,5 @@
-### [SPAGHETTI: Editing Implicit Shapes through Part Aware Generation]("https://amirhertz.github.io/spaghetti")
+
+### <a href="https://amirhertz.github.io/spaghetti">SPAGHETTI: Editing Implicit Shapes through Part Aware Generation</a>
 
 ![](./assets/readme_resources/teaser-01.png)
 
