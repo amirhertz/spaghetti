@@ -90,5 +90,3 @@ def download_pretrained_models():
 
 if __name__ == "__main__":
     download_pretrained_models()
-
-    'docker run -t -d -v /disk/amirh/clipasso_docker:/home/vinker/dev --name portclipasso -p 8888:8888 --gpus all yaelvinker/clipasso_docker'
